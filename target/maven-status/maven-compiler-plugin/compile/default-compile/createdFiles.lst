@@ -1,0 +1,6 @@
+com\api\service\StudentServiceImpl.class
+com\api\StudentManagementSystemApplication.class
+com\api\entities\Student.class
+com\api\controller\StudentController.class
+com\api\repository\StudentRepository.class
+com\api\service\StudentService.class
